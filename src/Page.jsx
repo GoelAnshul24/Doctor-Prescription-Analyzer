@@ -957,11 +957,11 @@ setShowModal(true);
             <FileText className="w-12 h-12 text-indigo-600" />
           </div> */}
           <div className="flex items-center justify-center mb-4">
-  {/* <img 
+    <img 
     src="/logo.jpg"      // place your logo in public/logo.png or update path
     alt="Company Logo" 
     className="w-20 h-20 object-contain"
-  />*/}
+  />
 </div> 
 
           <h1 className="text-4xl font-bold text-gray-800 mb-2">
@@ -1012,6 +1012,7 @@ setShowModal(true);
   );
 };
 export default PrescriptionAnalyzer;
+
 
 
 
